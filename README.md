@@ -49,9 +49,9 @@ Select **BarcodeReaderSimpleSample.Android** and select your device. Run the pro
 
 ## Licensing
 
-* The `BarcodeReader` module of Dynamsoft Capture Vision needs a valid license to work.
-* A one-day trial license is available by default for every new device to try Dynamsoft Capture Vision.
-* You can <a href="https://www.dynamsoft.com/customer/license/trialLicense?product=dbr&package=mobile&utm_source=docs" target="_blank"> request a 30-day free trial license</a> via Dynamsoft customer portal for further evaluation.
+- The `BarcodeReader` module of Dynamsoft Capture Vision needs a valid license to work.
+- A one-day trial license is available by default for every new device to try Dynamsoft Capture Vision.
+- You can request a 30-day trial license via the [Request a Trial License](https://www.dynamsoft.com/customer/license/trialLicense?product=dbr&utm_source=github&package=xamarin&version=9) link.
 
 ## Contact
 
